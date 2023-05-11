@@ -1,3 +1,3 @@
 # Algorithms
 Practicing algorithms
-Trying to solve Greedy algorithm problems using Python
+Trying to solve algorithm problems using Python
